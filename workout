@@ -1,5 +1,9 @@
 list workout
 -push day
+  -push up
+  - diamon push up
 -pull day
+  -pull up
+  -bicep curl
 -leg day
 -kardio
